@@ -9,7 +9,17 @@ function Drawer(props) {
     {
       title: 'Мужские Кроссовки Nike Blazer Mid Suede',
       price: 8499,
+      imageUrl: '/img/sneakers/2.jpg',
+    },
+    {
+      title: 'Мужские Кроссовки Nike Blazer Mid Suede',
+      price: 8499,
       imageUrl: '/img/sneakers/3.jpg',
+    },
+    {
+      title: 'Мужские Кроссовки Nike Blazer Mid Suede',
+      price: 8499,
+      imageUrl: '/img/sneakers/4.jpg',
     }
   ];
   return (
